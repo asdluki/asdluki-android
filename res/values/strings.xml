@@ -1,0 +1,24 @@
+<resources>
+
+	<string name="app_name">asdluki</string>
+	<string name="reminder">ułatwiacz życia</string>
+	<string name="companyHeader">Dane firmowe</string>
+
+    <string name="companyName">Nazwa firmy</string>
+    <string name="companyNameValue">Łukasz Olszewski</string>
+
+    <string name="vatId">NIP</string>
+    <string name="vatIdValue">657-255-97-11</string>
+
+    <string name="addressHeader">Dane adresowe</string>
+    <string name="address1">ul. Warszawska 161/243</string>
+    <string name="address2">Kielce, 25-547</string>
+
+    <string name="bankTransferHeader">Konto bankowe</string>
+    <string name="bankName">Bank Zachodni WBK S.A</string>
+    <string name="bankAccountNumber">69 1090 2398 0000 0001 1676 3739</string>
+
+    <string name="sendByEmail">Wyślij przez</string>
+    <string name="subject">Dane kontaktowe</string>
+
+</resources>
